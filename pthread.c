@@ -2,7 +2,7 @@
 #define UPPER_PRESURE_BOUND 500.0 
 
 #define LOWER_TEMP_BOUND 0 
-#define UPPER_TEMP_BOUND 100 
+#define UPPER_TEMP_BOUND 100.0 
 
 #include <stdio.h>
 #include <stdlib.h>
